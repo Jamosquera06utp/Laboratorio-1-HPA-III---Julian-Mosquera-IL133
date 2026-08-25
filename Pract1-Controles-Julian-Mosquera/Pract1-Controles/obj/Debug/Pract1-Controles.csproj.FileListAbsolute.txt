@@ -1,0 +1,10 @@
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract1-Controles\Pract1-Controles\bin\Debug\Pract1-Controles.exe.config
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract1-Controles\Pract1-Controles\bin\Debug\Pract1-Controles.exe
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract1-Controles\Pract1-Controles\bin\Debug\Pract1-Controles.pdb
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract1-Controles\Pract1-Controles\obj\Debug\Pract1-Controles.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract1-Controles\Pract1-Controles\obj\Debug\Pract1_Controles.Form1.resources
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract1-Controles\Pract1-Controles\obj\Debug\Pract1_Controles.Properties.Resources.resources
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract1-Controles\Pract1-Controles\obj\Debug\Pract1-Controles.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract1-Controles\Pract1-Controles\obj\Debug\Pract1-Controles.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract1-Controles\Pract1-Controles\obj\Debug\Pract1-Controles.exe
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract1-Controles\Pract1-Controles\obj\Debug\Pract1-Controles.pdb

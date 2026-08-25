@@ -1,0 +1,10 @@
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2-Descuentos.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2_Descuentos.PracticaDeVentas.resources
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2_Descuentos.Properties.Resources.resources
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2-Descuentos.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2-Descuentos.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract2-Descuentos\Pract2-Descuentos\bin\Debug\Pract2-Descuentos.exe.config
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract2-Descuentos\Pract2-Descuentos\bin\Debug\Pract2-Descuentos.exe
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract2-Descuentos\Pract2-Descuentos\bin\Debug\Pract2-Descuentos.pdb
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2-Descuentos.exe
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2-Descuentos.pdb

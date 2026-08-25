@@ -1,0 +1,10 @@
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract3-Controles-Julian-Mosquera\Pract3-Controles-Julian-Mosquera\obj\Debug\Pract3-Controles-Julian-Mosquera.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract3-Controles-Julian-Mosquera\Pract3-Controles-Julian-Mosquera\obj\Debug\Pract3_Controles_Julian_Mosquera.Pract8EstrcuturaIf3.resources
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract3-Controles-Julian-Mosquera\Pract3-Controles-Julian-Mosquera\obj\Debug\Pract3_Controles_Julian_Mosquera.Properties.Resources.resources
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract3-Controles-Julian-Mosquera\Pract3-Controles-Julian-Mosquera\obj\Debug\Pract3-Controles-Julian-Mosquera.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract3-Controles-Julian-Mosquera\Pract3-Controles-Julian-Mosquera\obj\Debug\Pract3-Controles-Julian-Mosquera.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract3-Controles-Julian-Mosquera\Pract3-Controles-Julian-Mosquera\bin\Debug\Pract3-Controles-Julian-Mosquera.exe.config
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract3-Controles-Julian-Mosquera\Pract3-Controles-Julian-Mosquera\bin\Debug\Pract3-Controles-Julian-Mosquera.exe
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract3-Controles-Julian-Mosquera\Pract3-Controles-Julian-Mosquera\bin\Debug\Pract3-Controles-Julian-Mosquera.pdb
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract3-Controles-Julian-Mosquera\Pract3-Controles-Julian-Mosquera\obj\Debug\Pract3-Controles-Julian-Mosquera.exe
+C:\Users\julia\OneDrive\Documentos\HPA III\Pract3-Controles-Julian-Mosquera\Pract3-Controles-Julian-Mosquera\obj\Debug\Pract3-Controles-Julian-Mosquera.pdb
